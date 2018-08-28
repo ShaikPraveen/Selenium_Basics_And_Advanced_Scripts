@@ -3,12 +3,11 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="com.infofactors.TabbedWindowOperations">
+      <class name="com.selenium.advanced.concepts.Verify_Element_Disable_And_Enable">
         <methods>
-          <include name="popupHandling"/>
-          <include name="testSetup"/>
+          <include name="verifielementEnable"/>
         </methods>
-      </class> <!-- com.infofactors.TabbedWindowOperations -->
+      </class> <!-- com.selenium.advanced.concepts.Verify_Element_Disable_And_Enable -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
